@@ -12,6 +12,7 @@
   <p>
     The results of the model will be evaluated using accuracy and loss metrics, and we will also visualise the confusion matrix to understand the model's performance.
   </p>
+  <image src = "https://media.geeksforgeeks.org/wp-content/uploads/20200219152327/conv-layers-vgg16.jpg">
   <h2>Getting Started</h2>
   <p>
     To get started with this project, you will need to have a basic understanding of deep learning and computer vision. You will also need to install the necessary packages such as TensorFlow, Keras, and OpenCV. 
