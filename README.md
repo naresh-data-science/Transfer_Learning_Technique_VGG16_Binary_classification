@@ -1,7 +1,3 @@
-<html>
-<head>
-  <title>Binary Classification using Transfer Learning with VGG16</title>
-</head>
 <body>
   <h1>Binary Classification using Transfer Learning with VGG16</h1>
   <p>
